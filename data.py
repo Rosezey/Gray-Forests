@@ -2,6 +2,7 @@ import math
 
 health = 1
 battery = 1
+armour = 1
 repair = 1
 recharge = 1
 dmgelec = 1
