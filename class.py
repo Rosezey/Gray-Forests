@@ -1,2 +1,0 @@
-class Metalhound:
-  robotype = hound
